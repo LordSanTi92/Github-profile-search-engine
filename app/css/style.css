@@ -1,3 +1,11 @@
-.jumbotron {
-    margin-top: -20px;
+.label {
+  margin-right: 10px;
+}
+
+.list-group {
+  list-style: none;
+}
+
+.btn {
+  margin-top: 20px;
 }
