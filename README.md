@@ -1,2 +1,4 @@
 # Github-profile-search-engine
-React app with bootstrap style
+React app where you can find any user by username on github. Used React, jQuery->Ajax, Bootstrap, Webpack 
+
+
