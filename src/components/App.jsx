@@ -21,7 +21,6 @@ class App extends Component{
         this.setState({
           userData: data
         })
-        console.log(data)
       }.bind(this),
       error: function(xhr, status, err){
         this.setState({
@@ -40,7 +39,6 @@ class App extends Component{
         this.setState({
           userRepos: data
         })
-        console.log(data)
       }.bind(this),
       error: function(xhr, status, err){
         this.setState({

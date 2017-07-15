@@ -22476,7 +22476,6 @@ var App = function (_Component) {
           this.setState({
             userData: data
           });
-          console.log(data);
         }.bind(this),
         error: function (xhr, status, err) {
           this.setState({
@@ -22497,7 +22496,6 @@ var App = function (_Component) {
           this.setState({
             userRepos: data
           });
-          console.log(data);
         }.bind(this),
         error: function (xhr, status, err) {
           this.setState({
